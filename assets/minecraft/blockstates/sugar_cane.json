@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "minecraft:block/orange_vine_bottom"
+    },
+    "age=1": {
+      "model": "minecraft:block/orange_vine_top"
+    }
+  }
+}

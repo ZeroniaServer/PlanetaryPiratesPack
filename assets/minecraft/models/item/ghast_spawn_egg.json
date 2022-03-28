@@ -1,0 +1,11 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/ghast_spawn_egg"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 1}, "model": "utility/turret/turretblue"},
+		{ "predicate": {"custom_model_data": 2}, "model": "utility/turret/turretred"},
+		{ "predicate": {"damaged": 1, "damage": 0}, "model": "item/ghast_spawn_egg"}
+	]
+}

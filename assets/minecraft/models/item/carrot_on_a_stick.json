@@ -1,0 +1,22 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/carrot_on_a_stick"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 1}, "model": "weapon/rifle/rifle"},
+		{ "predicate": {"custom_model_data": 2}, "model": "weapon/shockwave/shockwave"},
+		{ "predicate": {"custom_model_data": 3}, "model": "weapon/grenadelauncher/grenadelauncher"},
+		{"predicate": {"custom_model_data": 4}, "model": "weapon/pistol/pistol"},
+		{"predicate": {"custom_model_data": 5}, "model": "weapon/volley/volley"},
+		{"predicate": {"custom_model_data": 6}, "model": "weapon/flaregun/flaregun"},
+		{"predicate": {"custom_model_data": 7}, "model": "utility/medkit/medkit"},
+		{"predicate": {"custom_model_data": 8}, "model": "utility/station/closed"},
+		{"predicate": {"custom_model_data": 9}, "model": "weapon/hook"},
+		{"predicate": {"custom_model_data": 10}, "model": "utility/radio"},
+		{"predicate": {"custom_model_data": 11}, "model": "weapon/airstrike/marker_off"},
+		{"predicate": {"custom_model_data": 12}, "model": "utility/boat/boatbottle"},
+		{"predicate": {"custom_model_data": 13}, "model": "utility/turret/turret"},
+		{ "predicate": {"damaged": 1, "damage": 0}, "model": "item/carrot_on_a_stick"}
+	]
+}

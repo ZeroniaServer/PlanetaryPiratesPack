@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "custom/cracker"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 2.5, 0.25],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0.25, 2.75, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 21],
+			"translation": [8.75, 0, -7.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -90, 21],
+			"translation": [7.25, 0, -7.5]
+		},
+		"ground": {
+			"scale": [0.73, 0.73, 0.73]
+		}
+	}
+}

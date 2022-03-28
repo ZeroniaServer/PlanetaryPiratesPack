@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "lobby/locked",
+		"particle": "lobby/locked"
+	},
+	"elements": [
+		{
+			"from": [-7, 0, 8],
+			"to": [23, 17, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -17.5, -15],
+			"scale": [4, 4, 4]
+		}
+	}
+}
