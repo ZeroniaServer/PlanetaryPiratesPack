@@ -194,6 +194,16 @@
 		{ "predicate": {"custom_model_data": 207}, "model": "utility/turret/red/rel7"},
 		{ "predicate": {"custom_model_data": 208}, "model": "utility/turret/red/rel8"},
 		{ "predicate": {"custom_model_data": 209}, "model": "utility/turret/red/rel9"},
+		{ "predicate": {"custom_model_data": 210}, "model": "utility/ropehook/emptyhook"},
+		{ "predicate": {"custom_model_data": 211}, "model": "utility/ropehook/ropehook_rel1"},
+		{ "predicate": {"custom_model_data": 212}, "model": "utility/ropehook/ropehook_rel2"},
+		{ "predicate": {"custom_model_data": 213}, "model": "utility/ropehook/ropehook_rel3"},
+		{ "predicate": {"custom_model_data": 214}, "model": "utility/ropehook/ropehook_rel4"},
+		{ "predicate": {"custom_model_data": 215}, "model": "utility/ropehook/ropehook_rel5"},
+		{ "predicate": {"custom_model_data": 216}, "model": "utility/ropehook/ropehook_rel6"},
+		{ "predicate": {"custom_model_data": 217}, "model": "utility/ropehook/ropehook_rel7"},
+		{ "predicate": {"custom_model_data": 218}, "model": "utility/ropehook/hookprojectile"},
+		{ "predicate": {"custom_model_data": 219}, "model": "utility/ropehook/rope"},
 		{ "predicate": {"damaged": 1, "damage": 0}, "model": "item/diamond_hoe"}
 	]
 }
