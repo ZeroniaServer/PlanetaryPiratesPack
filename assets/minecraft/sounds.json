@@ -1060,5 +1060,23 @@
 		"sounds": [
 			"utility/turret/death/11"
 		]
+	},
+	
+	"hookshot": {
+		"sounds": [
+			"utility/hook/shoot"
+		]
+	},
+	
+	"hookhit": {
+		"sounds": [
+			"utility/hook/hit"
+		]
+	},
+	
+	"hookrope": {
+		"sounds": [
+			"utility/hook/ropehit"
+		]
 	}
 }
