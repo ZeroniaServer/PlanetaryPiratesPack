@@ -1,6 +1,6 @@
 {   "parent": "block/block",
     "textures": {
-        "particle": "minecraft:block/brick",
+        "particle": "minecraft:block/bricks",
         "overlay": "minecraft:block/oak_leaves"
     },
     "elements": [
