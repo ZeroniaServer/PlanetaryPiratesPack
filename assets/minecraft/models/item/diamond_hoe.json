@@ -204,6 +204,7 @@
 		{ "predicate": {"custom_model_data": 217}, "model": "utility/ropehook/ropehook_rel7"},
 		{ "predicate": {"custom_model_data": 218}, "model": "utility/ropehook/hookprojectile"},
 		{ "predicate": {"custom_model_data": 219}, "model": "utility/ropehook/rope"},
+		{ "predicate": {"custom_model_data": 220}, "model": "demolition/squeaker_flying"},
 		{ "predicate": {"damaged": 1, "damage": 0}, "model": "item/diamond_hoe"}
 	]
 }

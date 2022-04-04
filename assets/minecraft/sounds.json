@@ -696,6 +696,18 @@
 		]
 	},
 	
+	"squeaker_fly": {
+		"sounds": [
+			"squeaker/fly"
+		]
+	},
+	
+	"squeaker_takeoff": {
+		"sounds": [
+			"squeaker/takeoff"
+		]
+	},
+	
 	"morse1": {
 		"sounds": [
 			"squeaker/satellite/satellite1"
