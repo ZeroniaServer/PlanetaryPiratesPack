@@ -5,6 +5,12 @@
     },
     "age=1": {
       "model": "minecraft:block/orange_vine_top"
+    },
+    "age=2": {
+      "model": "minecraft:block/cave_vines_lit"
+    },
+    "age=3": {
+      "model": "minecraft:block/cave_vines_plant_lit"
     }
   }
 }
