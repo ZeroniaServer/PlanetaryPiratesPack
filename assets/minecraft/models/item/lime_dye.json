@@ -15,6 +15,7 @@
 		{ "predicate": {"custom_model_data": 9}, "model": "lobby/mapselect/locked"},
 		{ "predicate": {"custom_model_data": 10}, "model": "lobby/modeselect/demolition"},
 		{ "predicate": {"custom_model_data": 11}, "model": "lobby/mapselect/lumiarte"},
+		{ "predicate": {"custom_model_data": 12}, "model": "lobby/mapselect/faeviri"},
 		{ "predicate": {"damaged": 1, "damage": 0}, "model": "item/lime_dye"}
 	]
 }
