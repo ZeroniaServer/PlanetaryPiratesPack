@@ -516,6 +516,12 @@
 		]
 	},
 	
+	"radio3": {
+		"sounds": [
+			"custom/radio3"
+		]
+	},
+	
 	"airstrikeset": {
 		"sounds": [
 			"weapons/airstrike/place"
