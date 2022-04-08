@@ -4,7 +4,7 @@
 		"0": "custom/basalt_side",
 		"1": "block/end_stone_bricks",
 		"2": "block/chorus_plant",
-		"3": "block/lime_stained_glass",
+		"3": "custom/lime_stained_glass",
 		"4": "block/daylight_detector_inverted_top",
 		"6": "custom/particle_canister",
 		"particle": "custom/basalt_side"
