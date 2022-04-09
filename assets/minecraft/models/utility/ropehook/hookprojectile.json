@@ -3,7 +3,7 @@
 	"textures": {
 		"1": "block/iron_block",
 		"2": "entity/lead_knot",
-		"particle": "block/polished_basalt_side"
+		"particle": "entity/lead_knot"
 	},
 	"elements": [
 		{
