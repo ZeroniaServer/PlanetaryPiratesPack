@@ -1144,5 +1144,35 @@
 		"sounds": [
 			"custom/mushroomjump"
 		]
+	},
+	
+	"projector_place": {
+		"sounds": [
+			"utility/projector/place"
+		]
+	},
+	
+	"projector_open": {
+		"sounds": [
+			"utility/projector/open"
+		]
+	},
+	
+	"projector_close": {
+		"sounds": [
+			"utility/projector/close"
+		]
+	},
+	
+	"projector_display_on": {
+		"sounds": [
+			"utility/projector/activate"
+		]
+	},
+	
+	"projector_deactivate": {
+		"sounds": [
+			"utility/projector/deactivate"
+		]
 	}
 }
