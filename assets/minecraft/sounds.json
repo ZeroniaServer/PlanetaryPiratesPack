@@ -597,7 +597,7 @@
 		"sounds": [
 			"custom/radio1"
 		],
-		"subtitle": "subtitles.radio.teleport"
+		"subtitle": "subtitles.radio.call"
 	},
 
 	"radio2": {
