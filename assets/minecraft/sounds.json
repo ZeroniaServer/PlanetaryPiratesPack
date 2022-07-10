@@ -4,19 +4,19 @@
 			"weapons/rifle/shot"
 		]
 	},
-	
+
 	"particlerifle_distant": {
 		"sounds": [
 			"weapons/rifle/shot_distant"
 		]
 	},
-	
+
 	"particlerifle_rel1": {
 		"sounds": [
 			"weapons/rifle/unload"
 		]
 	},
-	
+
 	"particlerifle_rel2": {
 		"sounds": [
 			"weapons/rifle/reload"
@@ -27,25 +27,25 @@
 			"weapons/shockwave/shot"
 		]
 	},
-	
+
 	"shockwave_distant": {
 		"sounds": [
 			"weapons/shockwave/shot_distant"
 		]
 	},
-	
+
 	"shockwave_rel1": {
 		"sounds": [
 			"weapons/shockwave/unload"
 		]
 	},
-	
+
 	"shockwave_rel2": {
 		"sounds": [
 			"weapons/shockwave/loadshell"
 		]
 	},
-	
+
 	"shockwave_rel3": {
 		"sounds": [
 			"weapons/shockwave/reload"
@@ -56,25 +56,25 @@
 			"weapons/grenadelauncher/shot"
 		]
 	},
-	
+
 	"grenadelauncher_distant": {
 		"sounds": [
 			"weapons/grenadelauncher/shot_distant"
 		]
 	},
-	
+
 	"grenadelauncher_rel1": {
 		"sounds": [
 			"weapons/grenadelauncher/unload"
 		]
 	},
-	
+
 	"grenadelauncher_rel2": {
 		"sounds": [
 			"weapons/grenadelauncher/loadshell"
 		]
 	},
-	
+
 	"grenadelauncher_rel3": {
 		"sounds": [
 			"weapons/grenadelauncher/reload"
@@ -85,19 +85,19 @@
 			"weapons/pistol/shot"
 		]
 	},
-	
+
 	"pistol_distant": {
 		"sounds": [
 			"weapons/pistol/shot_distant"
 		]
 	},
-	
+
 	"pistol_rel1": {
 		"sounds": [
 			"weapons/pistol/unload"
 		]
 	},
-	
+
 	"pistol_rel2": {
 		"sounds": [
 			"weapons/pistol/reload"
@@ -108,25 +108,25 @@
 			"weapons/volley/shot"
 		]
 	},
-	
+
 	"volley_distant": {
 		"sounds": [
 			"weapons/volley/shot_distant"
 		]
 	},
-	
+
 	"volley_rel1": {
 		"sounds": [
 			"weapons/volley/unload"
 		]
 	},
-	
+
 	"volley_rel2": {
 		"sounds": [
 			"weapons/volley/reload"
 		]
 	},
-	
+
 	"volley_charge": {
 		"sounds": [
 			"weapons/volley/charge"
@@ -137,1039 +137,1045 @@
 			"weapons/flaregun/shot"
 		]
 	},
-	
+
 	"flare_distant": {
 		"sounds": [
 			"weapons/flaregun/shot_distant"
 		]
 	},
-	
+
 	"flare_ignite": {
 		"sounds": [
 			"weapons/flaregun/ignite"
 		]
 	},
-	
+
 	"flare_ignite_distant": {
 		"sounds": [
 			"weapons/flaregun/ignite_distant"
 		]
 	},
-	
+
 	"flare_rel1": {
 		"sounds": [
 			"weapons/flaregun/unload"
 		]
 	},
-	
+
 	"flare_rel2": {
 		"sounds": [
 			"weapons/flaregun/loadflare"
 		]
 	},
-	
+
 	"flare_rel3": {
 		"sounds": [
 			"weapons/flaregun/reload"
 		]
 	},
-	
+
 	"charge1": {
 		"sounds": [
 			"weapons/grenade/charge/charge1"
 		]
 	},
-	
+
 	"charge2": {
 		"sounds": [
 			"weapons/grenade/charge/charge2"
 		]
 	},
-	
+
 	"charge3": {
 		"sounds": [
 			"weapons/grenade/charge/charge3"
 		]
 	},
-	
+
 	"charge4": {
 		"sounds": [
 			"weapons/grenade/charge/charge4"
 		]
 	},
-	
+
 	"charge5": {
 		"sounds": [
 			"weapons/grenade/charge/charge5"
 		]
 	},
-	
+
 	"charge6": {
 		"sounds": [
 			"weapons/grenade/charge/charge6"
 		]
 	},
-	
+
 	"charge7": {
 		"sounds": [
 			"weapons/grenade/charge/charge7"
 		]
 	},
-	
+
 	"charge8": {
 		"sounds": [
 			"weapons/grenade/charge/charge8"
 		]
 	},
-	
+
 	"charge9": {
 		"sounds": [
 			"weapons/grenade/charge/charge9"
 		]
 	},
-	
+
 	"charge10": {
 		"sounds": [
 			"weapons/grenade/charge/charge10"
 		]
 	},
-	
+
 	"charge11": {
 		"sounds": [
 			"weapons/grenade/charge/charge11"
 		]
 	},
-	
+
 	"charge12": {
 		"sounds": [
 			"weapons/grenade/charge/charge12"
 		]
 	},
-	
+
 	"charge13": {
 		"sounds": [
 			"weapons/grenade/charge/charge13"
 		]
 	},
-	
+
 	"charge14": {
 		"sounds": [
 			"weapons/grenade/charge/charge14"
 		]
 	},
-	
+
 	"charge15": {
 		"sounds": [
 			"weapons/grenade/charge/charge15"
 		]
 	},
-	
+
 	"charge16": {
 		"sounds": [
 			"weapons/grenade/charge/charge16"
 		]
 	},
-	
+
 	"charge17": {
 		"sounds": [
 			"weapons/grenade/charge/charge17"
 		]
 	},
-	
+
 	"charge18": {
 		"sounds": [
 			"weapons/grenade/charge/charge18"
 		]
 	},
-	
+
 	"charge_distant1": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant1"
 		]
 	},
-	
+
 	"charge_distant2": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant2"
 		]
 	},
-	
+
 	"charge_distant3": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant3"
 		]
 	},
-	
+
 	"charge_distant4": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant4"
 		]
 	},
-	
+
 	"charge_distant5": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant5"
 		]
 	},
-	
+
 	"charge_distant6": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant6"
 		]
 	},
-	
+
 	"charge_distant7": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant7"
 		]
 	},
-	
+
 	"charge_distant8": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant8"
 		]
 	},
-	
+
 	"charge_distant9": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant9"
 		]
 	},
-	
+
 	"charge_distant10": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant10"
 		]
 	},
-	
+
 	"charge_distant11": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant11"
 		]
 	},
-	
+
 	"charge_distant12": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant12"
 		]
 	},
-	
+
 	"charge_distant13": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant13"
 		]
 	},
-	
+
 	"charge_distant14": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant14"
 		]
 	},
-	
+
 	"charge_distant15": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant15"
 		]
 	},
-	
+
 	"charge_distant16": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant16"
 		]
 	},
-	
+
 	"charge_distant17": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant17"
 		]
 	},
-	
+
 	"charge_distant18": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant18"
 		]
 	},
-	
+
 	"charge_distant19": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant19"
 		]
 	},
-	
+
 	"charge_distant20": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant20"
 		]
 	},
-	
+
 	"grenade": {
 		"sounds": [
 			"weapons/grenade/grenade"
 		]
 	},
-	
+
 	"grenade_distant": {
 		"sounds": [
 			"weapons/grenade/grenade_distant"
 		]
 	},
-	
+
 	"medkit": {
 		"sounds": [
 			"utility/medkit/medkit"
 		]
 	},
-	
+
 	"barrelset": {
 		"sounds": [
 			"utility/barrel/set"
 		]
 	},
-	
+
 	"barrelselect": {
 		"sounds": [
 			"utility/barrel/open"
 		]
 	},
-	
+
 	"barrelclose": {
 		"sounds": [
 			"utility/barrel/close"
 		]
 	},
-	
+
 	"key_insert": {
 		"sounds": [
 			"custom/key_insert"
 		]
 	},
-	
+
 	"key_turn": {
 		"sounds": [
 			"custom/key_turn"
 		]
 	},
-	
+
 	"key_remove": {
 		"sounds": [
 			"custom/key_remove"
 		]
 	},
-	
+
 	"boost": {
 		"sounds": [
 			"custom/boost"
 		]
 	},
-	
+
 	"boost_charge": {
 		"sounds": [
 			"custom/boost_charge"
 		]
 	},
-	
+
 	"boost_loop": {
 		"sounds": [
 			"custom/boost_loop"
 		]
 	},
-	
+
 	"boost_end": {
 		"sounds": [
 			"custom/boost_end"
 		]
 	},
-	
+
 	"helmetbreak": {
 		"sounds": [
 			"custom/helmetbreak"
 		]
 	},
-	
+
 	"helmetshatter": {
 		"sounds": [
 			"custom/helmetshatter"
 		]
 	},
-	
+
 	"cannon": {
 		"sounds": [
 			"custom/cannon"
 		]
 	},
-	
+
 	"hook": {
 		"sounds": [
 			"custom/hook"
 		]
 	},
-	
+
 	"radio1": {
 		"sounds": [
 			"custom/radio1"
 		]
 	},
-	
+
 	"radio2": {
 		"sounds": [
 			"custom/radio2"
 		]
 	},
-	
+
 	"radio3": {
 		"sounds": [
 			"custom/radio3"
 		]
 	},
-	
+
 	"airstrikeset": {
 		"sounds": [
 			"weapons/airstrike/place"
 		]
 	},
-	
+
 	"airstrikeactive": {
 		"sounds": [
 			"weapons/airstrike/activate"
 		]
 	},
-	
+
 	"cannondistant": {
 		"sounds": [
 			"custom/cannondistant"
 		]
 	},
-	
+
 	"cannonball": {
 		"sounds": [
 			"custom/cannonball"
 		]
 	},
-	
+
 	"airstrikedropping": {
 		"sounds": [
 			"weapons/airstrike/dropping"
 		]
 	},
-	
+
 	"airstrikefalling": {
 		"sounds": [
 			"weapons/airstrike/fallinglong"
 		]
 	},
-	
+
 	"airstrikefallingshort": {
 		"sounds": [
 			"weapons/airstrike/fallingshort"
 		]
 	},
-	
+
 	"cannonballdistant": {
 		"sounds": [
 			"custom/cannonballdistant"
 		]
 	},
-	
+
 	"boatbottle": {
 		"sounds": [
 			"utility/boat/bottle"
 		]
 	},
-	
+
 	"boatdeploy": {
 		"sounds": [
 			"utility/boat/deploy"
 		]
 	},
-	
+
 	"boatdamage": {
 		"sounds": [
 			"utility/boat/damage"
 		]
 	},
-	
+
 	"boatballoonpop": {
 		"sounds": [
 			"utility/boat/balloonpop"
 		]
 	},
-	
+
 	"boatcrash": {
 		"sounds": [
 			"utility/boat/crash"
 		]
 	},
-	
+
 	"mortar": {
 		"sounds": [
 			"weapons/grenadelauncher/mortar"
 		]
 	},
-	
+
 	"mortar_distant": {
 		"sounds": [
 			"weapons/grenadelauncher/mortar_distant"
 		]
 	},
-	
+
 	"collision_weak": {
 		"sounds": [
 			"weapons/collision/weak"
 		]
 	},
-	
+
 	"collision_medium": {
 		"sounds": [
 			"weapons/collision/medium"
 		]
 	},
-	
+
 	"collision_strong": {
 		"sounds": [
 			"weapons/collision/strong"
 		]
 	},
-	
+
 	"squeaker_amb1": {
 		"sounds": [
 			"squeaker/ambient1"
 		]
 	},
-	
+
 	"squeaker_amb2": {
 		"sounds": [
 			"squeaker/ambient2"
 		]
 	},
-	
+
 	"squeaker_amb3": {
 		"sounds": [
 			"squeaker/ambient3"
 		]
 	},
-	
+
 	"squeaker_pri1": {
 		"sounds": [
 			"squeaker/primed1"
 		]
 	},
-	
+
 	"squeaker_pri2": {
 		"sounds": [
 			"squeaker/primed2"
 		]
 	},
-	
+
 	"squeaker_pri3": {
 		"sounds": [
 			"squeaker/primed3"
 		]
 	},
-	
+
 	"squeaker_pri4": {
 		"sounds": [
 			"squeaker/primed4"
 		]
 	},
-	
+
 	"squeaker_pri1_distant": {
 		"sounds": [
 			"squeaker/primed1_distant"
 		]
 	},
-	
+
 	"squeaker_pri2_distant": {
 		"sounds": [
 			"squeaker/primed2_distant"
 		]
 	},
-	
+
 	"squeaker_pri3_distant": {
 		"sounds": [
 			"squeaker/primed3_distant"
 		]
 	},
-	
+
 	"squeaker_pri4_distant": {
 		"sounds": [
 			"squeaker/primed4_distant"
 		]
 	},
-	
+
 	"squeaker_armed": {
 		"sounds": [
 			"squeaker/armed"
 		]
 	},
-	
+
 	"squeaker_fly": {
 		"sounds": [
 			"squeaker/fly"
 		]
 	},
-	
+
 	"squeaker_takeoff": {
 		"sounds": [
 			"squeaker/takeoff"
 		]
 	},
-	
+
 	"morse1": {
 		"sounds": [
 			"squeaker/satellite/satellite1"
 		]
 	},
-	
+
 	"morse2": {
 		"sounds": [
 			"squeaker/satellite/satellite2"
 		]
 	},
-	
+
 	"morse3": {
 		"sounds": [
 			"squeaker/satellite/satellite3"
 		]
 	},
-	
+
 	"morse4": {
 		"sounds": [
 			"squeaker/satellite/satellite4"
 		]
 	},
-	
+
 	"morse5": {
 		"sounds": [
 			"squeaker/satellite/satellite5"
 		]
 	},
-	
+
 	"morse6": {
 		"sounds": [
 			"squeaker/satellite/satellite6"
 		]
 	},
-	
+
 	"morse7": {
 		"sounds": [
 			"squeaker/satellite/satellite7"
 		]
 	},
-	
+
 	"morse8": {
 		"sounds": [
 			"squeaker/satellite/satellite8"
 		]
 	},
-	
+
 	"morse9": {
 		"sounds": [
 			"squeaker/satellite/satellite9"
 		]
 	},
-	
+
 	"morse10": {
 		"sounds": [
 			"squeaker/satellite/satellite10"
 		]
 	},
-	
+
 	"morse11": {
 		"sounds": [
 			"squeaker/satellite/satellite11"
 		]
 	},
-	
+
 	"morse12": {
 		"sounds": [
 			"squeaker/satellite/satellite12"
 		]
 	},
-	
+
 	"morse13": {
 		"sounds": [
 			"squeaker/satellite/satellite13"
 		]
 	},
-	
+
 	"squeaker_explode": {
 		"sounds": [
 			"squeaker/squeakerexplode"
 		]
 	},
-	
+
 	"squeaker_explode_distant": {
 		"sounds": [
 			"squeaker/squeakerexplode_distant"
 		]
 	},
-	
+
 	"turret/ambient/1": {
 		"sounds": [
 			"utility/turret/ambient/1"
 		]
 	},
-	
+
 	"turret/ambient/2": {
 		"sounds": [
 			"utility/turret/ambient/2"
 		]
 	},
-	
+
 	"turret/ambient/3": {
 		"sounds": [
 			"utility/turret/ambient/3"
 		]
 	},
-	
+
 	"turret/ambient/4": {
 		"sounds": [
 			"utility/turret/ambient/4"
 		]
 	},
-	
+
 	"turret/ambient/5": {
 		"sounds": [
 			"utility/turret/ambient/5"
 		]
 	},
-	
+
 	"turret/ambient/6": {
 		"sounds": [
 			"utility/turret/ambient/6"
 		]
 	},
-	
+
 	"turret/ambient/7": {
 		"sounds": [
 			"utility/turret/ambient/7"
 		]
 	},
-	
+
 	"turret/ambient/8": {
 		"sounds": [
 			"utility/turret/ambient/8"
 		]
 	},
-	
+
 	"turret/ambient/9": {
 		"sounds": [
 			"utility/turret/ambient/9"
 		]
 	},
-	
+
 	"turret/ambient/10": {
 		"sounds": [
 			"utility/turret/ambient/10"
 		]
 	},
-	
+
 	"turret/ambient/11": {
 		"sounds": [
 			"utility/turret/ambient/11"
 		]
 	},
-	
+
 	"turretshot": {
 		"sounds": [
 			"utility/turret/turretshot"
 		]
 	},
-	
+
 	"turret/recharge/1": {
 		"sounds": [
 			"utility/turret/recharge/1"
 		]
 	},
-	
+
 	"turret/recharge/2": {
 		"sounds": [
 			"utility/turret/recharge/2"
 		]
 	},
-	
+
 	"turret/recharge/3": {
 		"sounds": [
 			"utility/turret/recharge/3"
 		]
 	},
-	
+
 	"turret/recharge/4": {
 		"sounds": [
 			"utility/turret/recharge/4"
 		]
 	},
-	
+
 	"turret/recharge/5": {
 		"sounds": [
 			"utility/turret/recharge/5"
 		]
 	},
-	
+
 	"turret/recharge/6": {
 		"sounds": [
 			"utility/turret/recharge/6"
 		]
 	},
-	
+
 	"turret/recharge/7": {
 		"sounds": [
 			"utility/turret/recharge/7"
 		]
 	},
-	
+
 	"turret/recharge/8": {
 		"sounds": [
 			"utility/turret/recharge/8"
 		]
 	},
-	
+
 	"turret/recharge/9": {
 		"sounds": [
 			"utility/turret/recharge/9"
 		]
 	},
-	
+
 	"turret_rel1": {
 		"sounds": [
 			"utility/turret/unload"
 		]
 	},
-	
+
 	"turret_rel2": {
 		"sounds": [
 			"utility/turret/reload"
 		]
 	},
-	
+
 	"turret/kill/1": {
 		"sounds": [
 			"utility/turret/kill/1"
 		]
 	},
-	
+
 	"turret/kill/2": {
 		"sounds": [
 			"utility/turret/kill/2"
 		]
 	},
-	
+
 	"turret/kill/3": {
 		"sounds": [
 			"utility/turret/kill/3"
 		]
 	},
-	
+
 	"turret/kill/4": {
 		"sounds": [
 			"utility/turret/kill/4"
 		]
 	},
-	
+
 	"turret/kill/5": {
 		"sounds": [
 			"utility/turret/kill/5"
 		]
 	},
-	
+
 	"turret/kill/6": {
 		"sounds": [
 			"utility/turret/kill/6"
 		]
 	},
-	
+
 	"turret/kill/7": {
 		"sounds": [
 			"utility/turret/kill/7"
 		]
 	},
-	
+
 	"turret/kill/8": {
 		"sounds": [
 			"utility/turret/kill/8"
 		]
 	},
-	
+
 	"turret/kill/9": {
 		"sounds": [
 			"utility/turret/kill/9"
 		]
 	},
-	
+
 	"turret/kill/10": {
 		"sounds": [
 			"utility/turret/kill/10"
 		]
 	},
-	
+
 	"turret/kill/11": {
 		"sounds": [
 			"utility/turret/kill/11"
 		]
 	},
-	
+
 	"turret/kill/12": {
 		"sounds": [
 			"utility/turret/kill/12"
 		]
 	},
-	
+
 	"turret/kill/13": {
 		"sounds": [
 			"utility/turret/kill/13"
 		]
 	},
-	
+
 	"turret/death/1": {
 		"sounds": [
 			"utility/turret/death/1"
 		]
 	},
-	
+
 	"turret/death/2": {
 		"sounds": [
 			"utility/turret/death/2"
 		]
 	},
-	
+
 	"turret/death/3": {
 		"sounds": [
 			"utility/turret/death/3"
 		]
 	},
-	
+
 	"turret/death/4": {
 		"sounds": [
 			"utility/turret/death/4"
 		]
 	},
-	
+
 	"turret/death/5": {
 		"sounds": [
 			"utility/turret/death/5"
 		]
 	},
-	
+
 	"turret/death/6": {
 		"sounds": [
 			"utility/turret/death/6"
 		]
 	},
-	
+
 	"turret/death/7": {
 		"sounds": [
 			"utility/turret/death/7"
 		]
 	},
-	
+
 	"turret/death/8": {
 		"sounds": [
 			"utility/turret/death/8"
 		]
 	},
-	
+
 	"turret/death/9": {
 		"sounds": [
 			"utility/turret/death/9"
 		]
 	},
-	
+
 	"turret/death/10": {
 		"sounds": [
 			"utility/turret/death/10"
 		]
 	},
-	
+
 	"turret/death/11": {
 		"sounds": [
 			"utility/turret/death/11"
 		]
 	},
-	
+
 	"hookshot": {
 		"sounds": [
 			"utility/hook/shoot"
 		]
 	},
-	
+
 	"hookhit": {
 		"sounds": [
 			"utility/hook/hit"
 		]
 	},
-	
+
 	"hookrope": {
 		"sounds": [
 			"utility/hook/ropehit"
 		]
 	},
-	
+
 	"novalaunch": {
 		"sounds": [
 			"utility/nova/launch"
 		]
 	},
-	
+
 	"novafall": {
 		"sounds": [
 			"utility/nova/fall"
 		]
 	},
-	
+
 	"novafall_distant": {
 		"sounds": [
 			"utility/nova/fall_distant"
 		]
 	},
-	
+
 	"novaexplode": {
 		"sounds": [
 			"utility/nova/explode"
 		]
 	},
-	
+
 	"novaexplode_distant": {
 		"sounds": [
 			"utility/nova/explode_distant"
 		]
 	},
-	
+
 	"mushroomland": {
 		"sounds": [
 			"custom/mushroomland"
 		]
 	},
-	
+
+	"mushroomstop": {
+		"sounds": [
+			"custom/mushroomland"
+		]
+	},
+
 	"mushroomjump": {
 		"sounds": [
 			"custom/mushroomjump"
 		]
 	},
-	
+
 	"projector_place": {
 		"sounds": [
 			"utility/projector/place"
 		]
 	},
-	
+
 	"projector_open": {
 		"sounds": [
 			"utility/projector/open"
 		]
 	},
-	
+
 	"projector_close": {
 		"sounds": [
 			"utility/projector/close"
 		]
 	},
-	
+
 	"projector_display_on": {
 		"sounds": [
 			"utility/projector/activate"
 		]
 	},
-	
+
 	"projector_deactivate": {
 		"sounds": [
 			"utility/projector/deactivate"
