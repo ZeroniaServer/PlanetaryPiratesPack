@@ -1457,5 +1457,15 @@
 			"weapons/rifle/shot_distant"
 		],
 		"subtitle": "subtitles.kitselect.supernovice"
-	}
+	},
+
+	"particlehit": {
+    "sounds": [
+      "mob/chicken/hurt1",
+      "mob/chicken/hurt2",
+			"mob/chicken/hurt3",
+			"mob/chicken/hurt4"
+    ],
+    "subtitle": "subtitles.particle.hit"
+  }
 }
