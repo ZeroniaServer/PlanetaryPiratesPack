@@ -2,1183 +2,1460 @@
 	"particlerifle": {
 		"sounds": [
 			"weapons/rifle/shot"
-		]
+		],
+		"subtitle": "subtitles.rifle.shot"
 	},
 
 	"particlerifle_distant": {
 		"sounds": [
 			"weapons/rifle/shot_distant"
-		]
+		],
+		"subtitle": "subtitles.rifle.shot"
 	},
 
 	"particlerifle_rel1": {
 		"sounds": [
 			"weapons/rifle/unload"
-		]
+		],
+		"subtitle": "subtitles.rifle.reload"
 	},
 
 	"particlerifle_rel2": {
 		"sounds": [
 			"weapons/rifle/reload"
-		]
+		],
+		"subtitle": "subtitles.rifle.reload"
 	},
+
 	"shockwave": {
 		"sounds": [
 			"weapons/shockwave/shot"
-		]
+		],
+		"subtitle": "subtitles.shockwave.shot"
 	},
 
 	"shockwave_distant": {
 		"sounds": [
 			"weapons/shockwave/shot_distant"
-		]
+		],
+		"subtitle": "subtitles.shockwave.shot"
 	},
 
 	"shockwave_rel1": {
 		"sounds": [
 			"weapons/shockwave/unload"
-		]
+		],
+		"subtitle": "subtitles.shockwave.reload"
 	},
 
 	"shockwave_rel2": {
 		"sounds": [
 			"weapons/shockwave/loadshell"
-		]
+		],
+		"subtitle": "subtitles.shockwave.reload"
 	},
 
 	"shockwave_rel3": {
 		"sounds": [
 			"weapons/shockwave/reload"
-		]
+		],
+		"subtitle": "subtitles.shockwave.reload"
 	},
 	"grenadelauncher": {
 		"sounds": [
 			"weapons/grenadelauncher/shot"
-		]
+		],
+		"subtitle": "subtitles.grenadelauncher.shot"
 	},
 
 	"grenadelauncher_distant": {
 		"sounds": [
 			"weapons/grenadelauncher/shot_distant"
-		]
+		],
+		"subtitle": "subtitles.grenadelauncher.shot"
 	},
 
 	"grenadelauncher_rel1": {
 		"sounds": [
 			"weapons/grenadelauncher/unload"
-		]
+		],
+		"subtitle": "subtitles.grenadelauncher.reload"
 	},
 
 	"grenadelauncher_rel2": {
 		"sounds": [
 			"weapons/grenadelauncher/loadshell"
-		]
+		],
+		"subtitle": "subtitles.grenadelauncher.reload"
 	},
 
 	"grenadelauncher_rel3": {
 		"sounds": [
 			"weapons/grenadelauncher/reload"
-		]
+		],
+		"subtitle": "subtitles.grenadelauncher.reload"
 	},
+
 	"pistol": {
 		"sounds": [
 			"weapons/pistol/shot"
-		]
+		],
+		"subtitle": "subtitles.pistol.shot"
 	},
 
 	"pistol_distant": {
 		"sounds": [
 			"weapons/pistol/shot_distant"
-		]
+		],
+		"subtitle": "subtitles.pistol.shot"
 	},
 
 	"pistol_rel1": {
 		"sounds": [
 			"weapons/pistol/unload"
-		]
+		],
+		"subtitle": "subtitles.pistol.reload"
 	},
 
 	"pistol_rel2": {
 		"sounds": [
 			"weapons/pistol/reload"
-		]
+		],
+		"subtitle": "subtitles.pistol.reload"
 	},
+
 	"volley": {
 		"sounds": [
 			"weapons/volley/shot"
-		]
+		],
+		"subtitle": "subtitles.volley.shot"
 	},
 
 	"volley_distant": {
 		"sounds": [
 			"weapons/volley/shot_distant"
-		]
+		],
+		"subtitle": "subtitles.volley.shot"
 	},
 
 	"volley_rel1": {
 		"sounds": [
 			"weapons/volley/unload"
-		]
+		],
+		"subtitle": "subtitles.volley.reload"
 	},
 
 	"volley_rel2": {
 		"sounds": [
 			"weapons/volley/reload"
-		]
+		],
+		"subtitle": "subtitles.volley.reload"
 	},
 
 	"volley_charge": {
 		"sounds": [
 			"weapons/volley/charge"
-		]
+		],
+		"subtitle": "subtitles.volley.charge"
 	},
+
 	"flare": {
 		"sounds": [
 			"weapons/flaregun/shot"
-		]
+		],
+		"subtitle": "subtitles.flare.shot"
 	},
 
 	"flare_distant": {
 		"sounds": [
 			"weapons/flaregun/shot_distant"
-		]
+		],
+		"subtitle": "subtitles.flare.shot"
 	},
 
 	"flare_ignite": {
 		"sounds": [
 			"weapons/flaregun/ignite"
-		]
+		],
+		"subtitle": "subtitles.flare.ignite"
 	},
 
 	"flare_ignite_distant": {
 		"sounds": [
 			"weapons/flaregun/ignite_distant"
-		]
+		],
+		"subtitle": "subtitles.flare.ignite"
 	},
 
 	"flare_rel1": {
 		"sounds": [
 			"weapons/flaregun/unload"
-		]
+		],
+		"subtitle": "subtitles.flare.reload"
 	},
 
 	"flare_rel2": {
 		"sounds": [
 			"weapons/flaregun/loadflare"
-		]
+		],
+		"subtitle": "subtitles.flare.reload"
 	},
 
 	"flare_rel3": {
 		"sounds": [
 			"weapons/flaregun/reload"
-		]
+		],
+		"subtitle": "subtitles.flare.reload"
 	},
 
 	"charge1": {
 		"sounds": [
 			"weapons/grenade/charge/charge1"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge2": {
 		"sounds": [
 			"weapons/grenade/charge/charge2"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge3": {
 		"sounds": [
 			"weapons/grenade/charge/charge3"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge4": {
 		"sounds": [
 			"weapons/grenade/charge/charge4"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge5": {
 		"sounds": [
 			"weapons/grenade/charge/charge5"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge6": {
 		"sounds": [
 			"weapons/grenade/charge/charge6"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge7": {
 		"sounds": [
 			"weapons/grenade/charge/charge7"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge8": {
 		"sounds": [
 			"weapons/grenade/charge/charge8"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge9": {
 		"sounds": [
 			"weapons/grenade/charge/charge9"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge10": {
 		"sounds": [
 			"weapons/grenade/charge/charge10"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge11": {
 		"sounds": [
 			"weapons/grenade/charge/charge11"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge12": {
 		"sounds": [
 			"weapons/grenade/charge/charge12"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge13": {
 		"sounds": [
 			"weapons/grenade/charge/charge13"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge14": {
 		"sounds": [
 			"weapons/grenade/charge/charge14"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge15": {
 		"sounds": [
 			"weapons/grenade/charge/charge15"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge16": {
 		"sounds": [
 			"weapons/grenade/charge/charge16"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge17": {
 		"sounds": [
 			"weapons/grenade/charge/charge17"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge18": {
 		"sounds": [
 			"weapons/grenade/charge/charge18"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge_distant1": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant1"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge_distant2": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant2"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge_distant3": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant3"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge_distant4": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant4"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge_distant5": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant5"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge_distant6": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant6"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge_distant7": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant7"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge_distant8": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant8"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge_distant9": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant9"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge_distant10": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant10"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge_distant11": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant11"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge_distant12": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant12"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge_distant13": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant13"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge_distant14": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant14"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge_distant15": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant15"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge_distant16": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant16"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge_distant17": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant17"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge_distant18": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant18"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge_distant19": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant19"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"charge_distant20": {
 		"sounds": [
 			"weapons/grenade/charge_distant/charge_distant20"
-		]
+		],
+		"subtitle": "subtitles.grenade.charge"
 	},
 
 	"grenade": {
 		"sounds": [
 			"weapons/grenade/grenade"
-		]
+		],
+		"subtitle": "subtitles.grenade.explode"
 	},
 
 	"grenade_distant": {
 		"sounds": [
 			"weapons/grenade/grenade_distant"
-		]
+		],
+		"subtitle": "subtitles.grenade.explode"
 	},
 
 	"medkit": {
 		"sounds": [
 			"utility/medkit/medkit"
-		]
+		],
+		"subtitle": "subtitles.medkit.use"
 	},
 
 	"barrelset": {
 		"sounds": [
 			"utility/barrel/set"
-		]
+		],
+		"subtitle": "subtitles.barrel.set"
 	},
 
 	"barrelselect": {
 		"sounds": [
 			"utility/barrel/open"
-		]
+		],
+		"subtitle": "subtitles.barrel.open"
 	},
 
 	"barrelclose": {
 		"sounds": [
 			"utility/barrel/close"
-		]
+		],
+		"subtitle": "subtitles.barrel.close"
 	},
 
 	"key_insert": {
 		"sounds": [
 			"custom/key_insert"
-		]
+		],
+		"subtitle": "subtitles.key.insert"
 	},
 
 	"key_turn": {
 		"sounds": [
 			"custom/key_turn"
-		]
+		],
+		"subtitle": "subtitles.key.turn"
 	},
 
 	"key_remove": {
 		"sounds": [
 			"custom/key_remove"
-		]
+		],
+		"subtitle": "subtitles.key.remove"
 	},
 
 	"boost": {
 		"sounds": [
 			"custom/boost"
-		]
+		],
+		"subtitle": "subtitles.boost.activate"
 	},
 
 	"boost_charge": {
 		"sounds": [
 			"custom/boost_charge"
-		]
+		],
+		"subtitle": "subtitles.boost.charge"
 	},
 
 	"boost_loop": {
 		"sounds": [
 			"custom/boost_loop"
-		]
+		],
+		"subtitle": "subtitles.boost.loop"
 	},
 
 	"boost_end": {
 		"sounds": [
 			"custom/boost_end"
-		]
+		],
+		"subtitle": "subtitles.boost.end"
 	},
 
 	"helmetbreak": {
 		"sounds": [
 			"custom/helmetbreak"
-		]
+		],
+		"subtitle": "subtitles.helmet.break"
 	},
 
 	"helmetshatter": {
 		"sounds": [
 			"custom/helmetshatter"
-		]
+		],
+		"subtitle": "subtitles.helmet.shatter"
 	},
 
 	"cannon": {
 		"sounds": [
 			"custom/cannon"
-		]
+		],
+		"subtitle": "subtitles.cannon.shot"
 	},
 
 	"hook": {
 		"sounds": [
 			"custom/hook"
-		]
+		],
+		"subtitle": "subtitles.hook.reload"
 	},
 
 	"radio1": {
 		"sounds": [
 			"custom/radio1"
-		]
+		],
+		"subtitle": "subtitles.radio.teleport"
 	},
 
 	"radio2": {
 		"sounds": [
 			"custom/radio2"
-		]
+		],
+		"subtitle": "subtitles.radio.beep"
 	},
 
 	"radio3": {
 		"sounds": [
 			"custom/radio3"
-		]
+		],
+		"subtitle": "subtitles.radio.cancel"
 	},
 
 	"airstrikeset": {
 		"sounds": [
 			"weapons/airstrike/place"
-		]
+		],
+		"subtitle": "subtitles.airstrike.set"
 	},
 
 	"airstrikeactive": {
 		"sounds": [
 			"weapons/airstrike/activate"
-		]
+		],
+		"subtitle": "subtitles.airstrike.activate"
 	},
 
 	"cannondistant": {
 		"sounds": [
 			"custom/cannondistant"
-		]
+		],
+		"subtitle": "subtitles.cannon.shot"
 	},
 
 	"cannonball": {
 		"sounds": [
 			"custom/cannonball"
-		]
+		],
+		"subtitle": "subtitles.cannonball.explode"
 	},
 
 	"airstrikedropping": {
 		"sounds": [
 			"weapons/airstrike/dropping"
-		]
+		],
+		"subtitle": "subtitles.airstrike.drop"
 	},
 
 	"airstrikefalling": {
 		"sounds": [
 			"weapons/airstrike/fallinglong"
-		]
+		],
+		"subtitle": "subtitles.airstrike.fall"
 	},
 
 	"airstrikefallingshort": {
 		"sounds": [
 			"weapons/airstrike/fallingshort"
-		]
+		],
+		"subtitle": "subtitles.airstrike.fall"
 	},
 
 	"cannonballdistant": {
 		"sounds": [
 			"custom/cannonballdistant"
-		]
+		],
+		"subtitle": "subtitles.cannonball.explode"
 	},
 
 	"boatbottle": {
 		"sounds": [
 			"utility/boat/bottle"
-		]
+		],
+		"subtitle": "subtitles.boatbottle.break"
 	},
 
 	"boatdeploy": {
 		"sounds": [
 			"utility/boat/deploy"
-		]
+		],
+		"subtitle": "subtitles.boatbottle.deploy"
 	},
 
 	"boatdamage": {
 		"sounds": [
 			"utility/boat/damage"
-		]
+		],
+		"subtitle": "subtitles.boatbottle.damage"
 	},
 
 	"boatballoonpop": {
 		"sounds": [
 			"utility/boat/balloonpop"
-		]
+		],
+		"subtitle": "subtitles.boatbottle.balloonpop"
 	},
 
 	"boatcrash": {
 		"sounds": [
 			"utility/boat/crash"
-		]
+		],
+		"subtitle": "subtitles.boatbottle.crash"
 	},
 
 	"mortar": {
 		"sounds": [
 			"weapons/grenadelauncher/mortar"
-		]
+		],
+		"subtitle": "subtitles.mortar.explode"
 	},
 
 	"mortar_distant": {
 		"sounds": [
 			"weapons/grenadelauncher/mortar_distant"
-		]
+		],
+		"subtitle": "subtitles.mortar.explode"
 	},
 
 	"collision_weak": {
 		"sounds": [
 			"weapons/collision/weak"
-		]
+		],
+		"subtitle": "subtitles.collision.weak"
 	},
 
 	"collision_medium": {
 		"sounds": [
 			"weapons/collision/medium"
-		]
+		],
+		"subtitle": "subtitles.collision.medium"
 	},
 
 	"collision_strong": {
 		"sounds": [
 			"weapons/collision/strong"
-		]
+		],
+		"subtitle": "subtitles.collision.strong"
 	},
 
 	"squeaker_amb1": {
 		"sounds": [
 			"squeaker/ambient1"
-		]
+		],
+		"subtitle": "subtitles.squeaker.ambient"
 	},
 
 	"squeaker_amb2": {
 		"sounds": [
 			"squeaker/ambient2"
-		]
+		],
+		"subtitle": "subtitles.squeaker.ambient"
 	},
 
 	"squeaker_amb3": {
 		"sounds": [
 			"squeaker/ambient3"
-		]
+		],
+		"subtitle": "subtitles.squeaker.ambient"
 	},
 
 	"squeaker_pri1": {
 		"sounds": [
 			"squeaker/primed1"
-		]
+		],
+		"subtitle": "subtitles.squeaker.prime"
 	},
 
 	"squeaker_pri2": {
 		"sounds": [
 			"squeaker/primed2"
-		]
+		],
+		"subtitle": "subtitles.squeaker.prime"
 	},
 
 	"squeaker_pri3": {
 		"sounds": [
 			"squeaker/primed3"
-		]
+		],
+		"subtitle": "subtitles.squeaker.prime"
 	},
 
 	"squeaker_pri4": {
 		"sounds": [
 			"squeaker/primed4"
-		]
+		],
+		"subtitle": "subtitles.squeaker.prime"
 	},
 
 	"squeaker_pri1_distant": {
 		"sounds": [
 			"squeaker/primed1_distant"
-		]
+		],
+		"subtitle": "subtitles.squeaker.prime"
 	},
 
 	"squeaker_pri2_distant": {
 		"sounds": [
 			"squeaker/primed2_distant"
-		]
+		],
+		"subtitle": "subtitles.squeaker.prime"
 	},
 
 	"squeaker_pri3_distant": {
 		"sounds": [
 			"squeaker/primed3_distant"
-		]
+		],
+		"subtitle": "subtitles.squeaker.prime"
 	},
 
 	"squeaker_pri4_distant": {
 		"sounds": [
 			"squeaker/primed4_distant"
-		]
+		],
+		"subtitle": "subtitles.squeaker.prime"
 	},
 
 	"squeaker_armed": {
 		"sounds": [
 			"squeaker/armed"
-		]
+		],
+		"subtitle": "subtitles.squeaker.armed"
 	},
 
 	"squeaker_fly": {
 		"sounds": [
 			"squeaker/fly"
-		]
+		],
+		"subtitle": "subtitles.squeaker.fly"
 	},
 
 	"squeaker_takeoff": {
 		"sounds": [
 			"squeaker/takeoff"
-		]
+		],
+		"subtitle": "subtitles.squeaker.takeoff"
 	},
 
 	"morse1": {
 		"sounds": [
 			"squeaker/satellite/satellite1"
-		]
+		],
+		"subtitle": "subtitles.satellite.ambient"
 	},
 
 	"morse2": {
 		"sounds": [
 			"squeaker/satellite/satellite2"
-		]
+		],
+		"subtitle": "subtitles.satellite.ambient"
 	},
 
 	"morse3": {
 		"sounds": [
 			"squeaker/satellite/satellite3"
-		]
+		],
+		"subtitle": "subtitles.satellite.ambient"
 	},
 
 	"morse4": {
 		"sounds": [
 			"squeaker/satellite/satellite4"
-		]
+		],
+		"subtitle": "subtitles.satellite.ambient"
 	},
 
 	"morse5": {
 		"sounds": [
 			"squeaker/satellite/satellite5"
-		]
+		],
+		"subtitle": "subtitles.satellite.ambient"
 	},
 
 	"morse6": {
 		"sounds": [
 			"squeaker/satellite/satellite6"
-		]
+		],
+		"subtitle": "subtitles.satellite.ambient"
 	},
 
 	"morse7": {
 		"sounds": [
 			"squeaker/satellite/satellite7"
-		]
+		],
+		"subtitle": "subtitles.satellite.ambient"
 	},
 
 	"morse8": {
 		"sounds": [
 			"squeaker/satellite/satellite8"
-		]
+		],
+		"subtitle": "subtitles.satellite.ambient"
 	},
 
 	"morse9": {
 		"sounds": [
 			"squeaker/satellite/satellite9"
-		]
+		],
+		"subtitle": "subtitles.satellite.ambient"
 	},
 
 	"morse10": {
 		"sounds": [
 			"squeaker/satellite/satellite10"
-		]
+		],
+		"subtitle": "subtitles.satellite.ambient"
 	},
 
 	"morse11": {
 		"sounds": [
 			"squeaker/satellite/satellite11"
-		]
+		],
+		"subtitle": "subtitles.satellite.ambient"
 	},
 
 	"morse12": {
 		"sounds": [
 			"squeaker/satellite/satellite12"
-		]
+		],
+		"subtitle": "subtitles.satellite.ambient"
 	},
 
 	"morse13": {
 		"sounds": [
 			"squeaker/satellite/satellite13"
-		]
+		],
+		"subtitle": "subtitles.satellite.ambient"
 	},
 
 	"squeaker_explode": {
 		"sounds": [
 			"squeaker/squeakerexplode"
-		]
+		],
+		"subtitle": "subtitles.squeaker.explode"
 	},
 
 	"squeaker_explode_distant": {
 		"sounds": [
 			"squeaker/squeakerexplode_distant"
-		]
+		],
+		"subtitle": "subtitles.squeaker.explode"
 	},
 
 	"turret/ambient/1": {
 		"sounds": [
 			"utility/turret/ambient/1"
-		]
+		],
+		"subtitle": "subtitles.turret.ambient"
 	},
 
 	"turret/ambient/2": {
 		"sounds": [
 			"utility/turret/ambient/2"
-		]
+		],
+		"subtitle": "subtitles.turret.ambient"
 	},
 
 	"turret/ambient/3": {
 		"sounds": [
 			"utility/turret/ambient/3"
-		]
+		],
+		"subtitle": "subtitles.turret.ambient"
 	},
 
 	"turret/ambient/4": {
 		"sounds": [
 			"utility/turret/ambient/4"
-		]
+		],
+		"subtitle": "subtitles.turret.ambient"
 	},
 
 	"turret/ambient/5": {
 		"sounds": [
 			"utility/turret/ambient/5"
-		]
+		],
+		"subtitle": "subtitles.turret.ambient"
 	},
 
 	"turret/ambient/6": {
 		"sounds": [
 			"utility/turret/ambient/6"
-		]
+		],
+		"subtitle": "subtitles.turret.ambient"
 	},
 
 	"turret/ambient/7": {
 		"sounds": [
 			"utility/turret/ambient/7"
-		]
+		],
+		"subtitle": "subtitles.turret.ambient"
 	},
 
 	"turret/ambient/8": {
 		"sounds": [
 			"utility/turret/ambient/8"
-		]
+		],
+		"subtitle": "subtitles.turret.ambient"
 	},
 
 	"turret/ambient/9": {
 		"sounds": [
 			"utility/turret/ambient/9"
-		]
+		],
+		"subtitle": "subtitles.turret.ambient"
 	},
 
 	"turret/ambient/10": {
 		"sounds": [
 			"utility/turret/ambient/10"
-		]
+		],
+		"subtitle": "subtitles.turret.ambient"
 	},
 
 	"turret/ambient/11": {
 		"sounds": [
 			"utility/turret/ambient/11"
-		]
+		],
+		"subtitle": "subtitles.turret.ambient"
 	},
 
 	"turretshot": {
 		"sounds": [
 			"utility/turret/turretshot"
-		]
+		],
+		"subtitle": "subtitles.turret.shot"
 	},
 
 	"turret/recharge/1": {
 		"sounds": [
 			"utility/turret/recharge/1"
-		]
+		],
+		"subtitle": "subtitles.turret.recharge"
 	},
 
 	"turret/recharge/2": {
 		"sounds": [
 			"utility/turret/recharge/2"
-		]
+		],
+		"subtitle": "subtitles.turret.recharge"
 	},
 
 	"turret/recharge/3": {
 		"sounds": [
 			"utility/turret/recharge/3"
-		]
+		],
+		"subtitle": "subtitles.turret.recharge"
 	},
 
 	"turret/recharge/4": {
 		"sounds": [
 			"utility/turret/recharge/4"
-		]
+		],
+		"subtitle": "subtitles.turret.recharge"
 	},
 
 	"turret/recharge/5": {
 		"sounds": [
 			"utility/turret/recharge/5"
-		]
+		],
+		"subtitle": "subtitles.turret.recharge"
 	},
 
 	"turret/recharge/6": {
 		"sounds": [
 			"utility/turret/recharge/6"
-		]
+		],
+		"subtitle": "subtitles.turret.recharge"
 	},
 
 	"turret/recharge/7": {
 		"sounds": [
 			"utility/turret/recharge/7"
-		]
+		],
+		"subtitle": "subtitles.turret.recharge"
 	},
 
 	"turret/recharge/8": {
 		"sounds": [
 			"utility/turret/recharge/8"
-		]
+		],
+		"subtitle": "subtitles.turret.recharge"
 	},
 
 	"turret/recharge/9": {
 		"sounds": [
 			"utility/turret/recharge/9"
-		]
+		],
+		"subtitle": "subtitles.turret.recharge"
 	},
 
 	"turret_rel1": {
 		"sounds": [
 			"utility/turret/unload"
-		]
+		],
+		"subtitle": "subtitles.turret.reload"
 	},
 
 	"turret_rel2": {
 		"sounds": [
 			"utility/turret/reload"
-		]
+		],
+		"subtitle": "subtitles.turret.reload"
 	},
 
 	"turret/kill/1": {
 		"sounds": [
 			"utility/turret/kill/1"
-		]
+		],
+		"subtitle": "subtitles.turret.kill"
 	},
 
 	"turret/kill/2": {
 		"sounds": [
 			"utility/turret/kill/2"
-		]
+		],
+		"subtitle": "subtitles.turret.kill"
 	},
 
 	"turret/kill/3": {
 		"sounds": [
 			"utility/turret/kill/3"
-		]
+		],
+		"subtitle": "subtitles.turret.kill"
 	},
 
 	"turret/kill/4": {
 		"sounds": [
 			"utility/turret/kill/4"
-		]
+		],
+		"subtitle": "subtitles.turret.kill"
 	},
 
 	"turret/kill/5": {
 		"sounds": [
 			"utility/turret/kill/5"
-		]
+		],
+		"subtitle": "subtitles.turret.kill"
 	},
 
 	"turret/kill/6": {
 		"sounds": [
 			"utility/turret/kill/6"
-		]
+		],
+		"subtitle": "subtitles.turret.kill"
 	},
 
 	"turret/kill/7": {
 		"sounds": [
 			"utility/turret/kill/7"
-		]
+		],
+		"subtitle": "subtitles.turret.kill"
 	},
 
 	"turret/kill/8": {
 		"sounds": [
 			"utility/turret/kill/8"
-		]
+		],
+		"subtitle": "subtitles.turret.kill"
 	},
 
 	"turret/kill/9": {
 		"sounds": [
 			"utility/turret/kill/9"
-		]
+		],
+		"subtitle": "subtitles.turret.kill"
 	},
 
 	"turret/kill/10": {
 		"sounds": [
 			"utility/turret/kill/10"
-		]
+		],
+		"subtitle": "subtitles.turret.kill"
 	},
 
 	"turret/kill/11": {
 		"sounds": [
 			"utility/turret/kill/11"
-		]
+		],
+		"subtitle": "subtitles.turret.kill"
 	},
 
 	"turret/kill/12": {
 		"sounds": [
 			"utility/turret/kill/12"
-		]
+		],
+		"subtitle": "subtitles.turret.kill"
 	},
 
 	"turret/kill/13": {
 		"sounds": [
 			"utility/turret/kill/13"
-		]
+		],
+		"subtitle": "subtitles.turret.kill"
 	},
 
 	"turret/death/1": {
 		"sounds": [
 			"utility/turret/death/1"
-		]
+		],
+		"subtitle": "subtitles.turret.death"
 	},
 
 	"turret/death/2": {
 		"sounds": [
 			"utility/turret/death/2"
-		]
+		],
+		"subtitle": "subtitles.turret.death"
 	},
 
 	"turret/death/3": {
 		"sounds": [
 			"utility/turret/death/3"
-		]
+		],
+		"subtitle": "subtitles.turret.death"
 	},
 
 	"turret/death/4": {
 		"sounds": [
 			"utility/turret/death/4"
-		]
+		],
+		"subtitle": "subtitles.turret.death"
 	},
 
 	"turret/death/5": {
 		"sounds": [
 			"utility/turret/death/5"
-		]
+		],
+		"subtitle": "subtitles.turret.death"
 	},
 
 	"turret/death/6": {
 		"sounds": [
 			"utility/turret/death/6"
-		]
+		],
+		"subtitle": "subtitles.turret.death"
 	},
 
 	"turret/death/7": {
 		"sounds": [
 			"utility/turret/death/7"
-		]
+		],
+		"subtitle": "subtitles.turret.death"
 	},
 
 	"turret/death/8": {
 		"sounds": [
 			"utility/turret/death/8"
-		]
+		],
+		"subtitle": "subtitles.turret.death"
 	},
 
 	"turret/death/9": {
 		"sounds": [
 			"utility/turret/death/9"
-		]
+		],
+		"subtitle": "subtitles.turret.death"
 	},
 
 	"turret/death/10": {
 		"sounds": [
 			"utility/turret/death/10"
-		]
+		],
+		"subtitle": "subtitles.turret.death"
 	},
 
 	"turret/death/11": {
 		"sounds": [
 			"utility/turret/death/11"
-		]
+		],
+		"subtitle": "subtitles.turret.death"
 	},
 
 	"hookshot": {
 		"sounds": [
 			"utility/hook/shoot"
-		]
+		],
+		"subtitle": "subtitles.hook.shot"
 	},
 
 	"hookhit": {
 		"sounds": [
 			"utility/hook/hit"
-		]
+		],
+		"subtitle": "subtitles.hook.hit"
 	},
 
 	"hookrope": {
 		"sounds": [
 			"utility/hook/ropehit"
-		]
+		],
+		"subtitle": "subtitles.hook.rope"
 	},
 
 	"novalaunch": {
 		"sounds": [
 			"utility/nova/launch"
-		]
+		],
+		"subtitle": "subtitles.nova.launch"
 	},
 
 	"novafall": {
 		"sounds": [
 			"utility/nova/fall"
-		]
+		],
+		"subtitle": "subtitles.nova.fall"
 	},
 
 	"novafall_distant": {
 		"sounds": [
 			"utility/nova/fall_distant"
-		]
+		],
+		"subtitle": "subtitles.nova.fall"
 	},
 
 	"novaexplode": {
 		"sounds": [
 			"utility/nova/explode"
-		]
+		],
+		"subtitle": "subtitles.nova.explode"
 	},
 
 	"novaexplode_distant": {
 		"sounds": [
 			"utility/nova/explode_distant"
-		]
+		],
+		"subtitle": "subtitles.nova.explode"
 	},
 
 	"mushroomland": {
 		"sounds": [
 			"custom/mushroomland"
-		]
+		],
+		"subtitle": "subtitles.mushroom.land"
 	},
 
 	"mushroomstop": {
 		"sounds": [
 			"custom/mushroomland"
-		]
+		],
+		"subtitle": "subtitles.mushroom.stop"
 	},
 
 	"mushroomjump": {
 		"sounds": [
 			"custom/mushroomjump"
-		]
+		],
+		"subtitle": "subtitles.mushroom.jump"
 	},
 
 	"projector_place": {
 		"sounds": [
 			"utility/projector/place"
-		]
+		],
+		"subtitle": "subtitles.projector.place"
 	},
 
 	"projector_open": {
 		"sounds": [
 			"utility/projector/open"
-		]
+		],
+		"subtitle": "subtitles.projector.open"
 	},
 
 	"projector_close": {
 		"sounds": [
 			"utility/projector/close"
-		]
+		],
+		"subtitle": "subtitles.projector.close"
 	},
 
 	"projector_display_on": {
 		"sounds": [
 			"utility/projector/activate"
-		]
+		],
+		"subtitle": "subtitles.projector.activate"
 	},
 
 	"projector_deactivate": {
 		"sounds": [
 			"utility/projector/deactivate"
-		]
+		],
+		"subtitle": "subtitles.projector.deactivate"
+	},
+
+	"wingame": {
+		"sounds": [
+			{
+				"name": "ui/toast/challenge_complete",
+				"volume": 0.6
+			}
+		],
+		"subtitle": "subtitles.game.win"
+	},
+
+  "item.armor.equip_generic": {
+		"replace": true,
+    "sounds": [
+    ],
+    "subtitle": ""
+  },
+
+  "item.armor.equip_leather": {
+		"replace": true,
+    "sounds": [
+    ],
+    "subtitle": ""
+  },
+
+  "item.armor.equip_netherite": {
+		"replace": true,
+    "sounds": [
+    ],
+    "subtitle": ""
+  },
+
+  "entity.arrow.hit": {
+		"replace": true,
+    "sounds": [
+    ],
+    "subtitle": ""
+  },
+
+	"selectamputrooper": {
+		"sounds": [
+			"custom/hook"
+		],
+		"subtitle": "subtitles.kitselect.amputrooper"
+	},
+
+	"selectbombaneer": {
+		"sounds": [
+			"weapons/shockwave/shot"
+		],
+		"subtitle": "subtitles.kitselect.bombaneer"
+	},
+
+	"selectcosmarauder": {
+		"sounds": [
+			"ui/cartography_table/drawmap1",
+			"ui/cartography_table/drawmap2",
+			"ui/cartography_table/drawmap3"
+		],
+		"subtitle": "subtitles.kitselect.cosmarauder"
+	},
+
+	"selectdecknician": {
+		"sounds": [
+			"utility/barrel/set"
+		],
+		"subtitle": "subtitles.kitselect.decknician"
+	},
+
+	"selectsupernovice": {
+		"sounds": [
+			"weapons/rifle/shot_distant"
+		],
+		"subtitle": "subtitles.kitselect.supernovice"
 	}
 }
