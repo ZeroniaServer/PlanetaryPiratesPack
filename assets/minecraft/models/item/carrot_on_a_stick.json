@@ -16,7 +16,6 @@
 		{"predicate": {"custom_model_data": 10}, "model": "utility/radio"},
 		{"predicate": {"custom_model_data": 11}, "model": "weapon/airstrike/marker_off"},
 		{"predicate": {"custom_model_data": 12}, "model": "utility/boat/boatbottle"},
-		{"predicate": {"custom_model_data": 13}, "model": "utility/turret/turret"},
 		{"predicate": {"custom_model_data": 14}, "model": "utility/ropehook/ropehook"},
 		{"predicate": {"custom_model_data": 15}, "model": "utility/novascout"},
 		{ "predicate": {"custom_model_data": 16}, "model": "weapon/rifle/rifle_blue"},
