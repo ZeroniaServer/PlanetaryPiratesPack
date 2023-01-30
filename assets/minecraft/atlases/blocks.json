@@ -1,0 +1,180 @@
+{
+    "sources": [
+        {
+            "type": "single",
+            "resource": "minecraft:custom/unlock_chest"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cracker"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/squeaker_flying"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:helmet/blue"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/skeleton/skeleton"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:helmet/blue_shatter"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:helmet/purple"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:helmet/purple_shatter"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:helmet/red"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:helmet/red_shatter"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:helmet/black"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:helmet/dark_blue"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/skeleton/wither_skeleton"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:helmet/dark_purple"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:helmet/dark_red"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/golden_coin"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:lobby/confirm"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:lobby/restore_defaults"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:lobby/faeviri"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:lobby/locked"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:lobby/lumiarte"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:lobby/arrow_right"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:lobby/outline"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:lobby/arrow_left"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:lobby/clock"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:lobby/zandarcus"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:lobby/conquest"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:lobby/demolition"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/blackstone"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:entity/lead_knot"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/crying_obsidian"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/basalt_side"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/lime_stained_glass"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/particle_canister"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/terracotta"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/blue_seethrough"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/blue_solid"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/red_seethrough"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/red_solid"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mob_effect/regeneration"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/green_lamp_on"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/particle_canister_empty"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/ev_gold"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/pr_sight"
+        }
+    ]
+}
